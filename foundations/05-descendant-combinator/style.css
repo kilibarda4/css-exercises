@@ -1,0 +1,13 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    align-items: center;
+}
+
+/* other combinations
+    .container .text
+    .container p
+    div .text
+    div > p
+*/
